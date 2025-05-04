@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Kipkirui Langat</h1>
+<h1 align="center"> Hi there, I'm Kipkirui Langat</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End%20Engineer-ALX%20Africa-blue?style=for-the-badge" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m Kipkirui Langat, a passionate Front-End Engineer and **Python for Data Analysis enthusiast**, currently immersed in the **ALX Software Engineering Program**. I’m driven by the mission to build responsive, robust, and impactful software for the future.
 
