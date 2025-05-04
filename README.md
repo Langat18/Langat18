@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Langat18/Langat18/main/kipkirui_langat_tech_banner.png" alt="Techy Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Langat18/Langat18/main/kipkirui_langat_tech_banner.png" alt="" width="800"/>
 </p>
 
 
